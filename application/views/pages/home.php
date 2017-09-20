@@ -27,8 +27,8 @@
         <div class="item active" onclick="location.href='<?php echo base_url();?>product'">
             <img data-src="<?php echo base_url("assets/images/sb_4.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-3.jpg");?>">
             <div class="carousel-caption">
-                <h3>Pro Skate Board Motion Inf9000</h3>
-                <p> Do all your cool stuff on Contoso board Motion Inf9000.</p>
+                <h3>Pro Skate Board Motion Infd9000</h3>
+                <p> Do all your cool stuff on Contoso board Motion Infd9000.</p>
             </div>
         </div>
     </div>
